@@ -1,0 +1,14 @@
+Intermediate outputs/
+Internal documentation/
+Outputs/Tables/
+Outputs/Figures/
+Outputs/Publication/Figures/High-resolution/
+Internal_notes.txt
+.Rproj.user
+Scripts/recovery_generalizability_gpa/Workspace/
+Scripts/recovery_generalizability_gpa/Exploratory analyses/
+Scripts/recovery_generalizability_gpa/Superceded/
+Scripts/recovery_generalizability_gpa/Supplementary analyses/
+Scripts/recovery_generalizability_gpa/.Rhistory
+Scripts/recovery_generalizability_gpa/recovery_generalizability_gpa.Rproj
+Tools/Maps/
